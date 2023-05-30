@@ -1,0 +1,29 @@
+/* .Navbar{
+    height: 50px;
+  
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 14px;
+    color:whitesmoke;
+    background-color:rgba(0, 0, 0, 0.664);
+} */
+.upperbar{
+    color: white;
+}
+.avatar{
+    width: 30px;
+    height: 30px;
+}
+.Addtaskbtn{
+    padding: 2px 4px;
+    border: none;
+    border-radius: 2px;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+
+}
+.Addtaskbtn:hover{
+    background-color:#ff9900 ;
+}
